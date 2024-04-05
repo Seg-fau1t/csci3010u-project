@@ -20,3 +20,11 @@ When the game has loaded up the Plinko board should show up. it will be filled
 with pegs, and to add balls you simply have to click the mouse where you would
 like to spawn the ball. you can add as many balls as you like to whatever part
 of the board you wish. To quit just press the x on the game window.
+
+here is the video of me playing the game.
+![A fun game of Plinko](./ref.mkv)
+
+## notes
+despite all of the balls and pegs being rendered as squares, they treated as
+balls by the physics systems I wrote. They where meant to be placeholders but I
+didn't have time to change the code.
