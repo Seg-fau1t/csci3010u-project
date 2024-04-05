@@ -22,7 +22,7 @@ like to spawn the ball. you can add as many balls as you like to whatever part
 of the board you wish. To quit just press the x on the game window.
 
 here is the video of me playing the game.
-![A fun game of Plinko](./ref.mkv)
+![A fun game of Plinko](./ref.mp4)
 
 ## notes
 despite all of the balls and pegs being rendered as squares, they treated as
